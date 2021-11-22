@@ -1,3 +1,3 @@
-Lista de afazeres, é digitado um afazer no campo tarefa, a tarefa é criada e ao clicar na checkbox deixa o afazer feito ou desfeito.
+Projeto Cadastro de Clientes, Ao clicar no botão cadastrar cliente aparece uma tela quatro campos para poder cadastrar um cliente (Nome, e-mail, celular e cidade).
 
 Desenvolvido por Bruno Trindade e Leonardo Maia
